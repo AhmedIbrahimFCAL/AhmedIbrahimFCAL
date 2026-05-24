@@ -34,7 +34,14 @@
 
 ---
 
+## Programming Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java,rust,py,html,css,js,dotnet,django,octave,github,gitlab,ai,vscode,tensorflow,opencv,sqlite,kali,windows" />
+  </a>
+</p>
 
+---
 
 ## 📊 GitHub Stats
 
