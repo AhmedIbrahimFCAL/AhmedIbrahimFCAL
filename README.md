@@ -34,10 +34,28 @@
 
 ---
 
-## Programming Languages & Tools
+## Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java,rust,py,html,css,js,dotnet,django,octave,github,gitlab,ai,vscode,tensorflow,opencv,sqlite,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java,rust,py" />
+  </a>
+</p>
+
+---
+
+## Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,django,sqlite" />
+  </a>
+</p>
+
+---
+
+## Software & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,octave,github,gitlab,vscode,tensorflow,opencv,kali,windows" />
   </a>
 </p>
 
