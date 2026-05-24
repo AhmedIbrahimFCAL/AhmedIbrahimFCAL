@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedIbrahimFCAL.AhmedIbrahimFCAL&"  />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmedIbrahimFCAL">
-
 </p>
 
 
