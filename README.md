@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=33&pause=500&color=FFFF00&center=true&vCenter=true&width=1100&height=73&lines=I'm+Ahmad+Ibrahim++%F0%9F%91%8B;Student+%40+Faculty+of+Computing+%26+AI++Cairo+University;hoping+to+be+AI+Software+%26+Systems+Engineer" alt="Typing SVG" /></a>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmedIbrahimFCAL">
@@ -43,39 +49,30 @@
 
 ---
 
-## 🤝 Let's Connect
-
 ## 📫 How to reach me:
-  - [![Email](https://img.shields.io/badge/Email-Ahmad%20Ibrahim-blue?style=flat-square&logo=gmail)](mailto:ahmad2005717@gmail.com)
-  - <img src="assets/LinkedIn-logo-colored.png" alt="LinkedIn" width=20/>
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username) -->
+  [![Email](https://img.shields.io/badge/Email-Ahmad%20Ibrahim-blue?style=flat-square&logo=gmail)](mailto:ahmad2005717@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
+
+---
+
+
+
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedIbrahimFCAL&theme=flat" alt="trophy" />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph.svg">
-
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedIbrahimFCAL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
 
 
 <picture>
