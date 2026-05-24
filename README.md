@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=33&pause=500&color=FFFF00&center=true&vCenter=true&width=1100&height=73&lines=I'm+Ahmad+Ibrahim++%F0%9F%91%8B;Student+%40+Faculty+of+Computing+%26+AI++Cairo+University;hoping+to+be+AI+Software+%26+Systems+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=33&pause=500&color=FFFF00&center=true&vCenter=true&width=1100&height=73&lines=I'm+Ahmad+Ibrahim++%F0%9F%91%8B;🎓+Student+%40+Faculty+of+Computing+%26+AI++Cairo+University+🎓;✨+hoping+to+be+AI+Software+%26+Systems+Engineer+✨" alt="Typing SVG" /></a>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -34,6 +34,12 @@
 
 ---
 
+## 📫 How to reach me:
+  [![Email](https://img.shields.io/badge/Email-Ahmad%20Ibrahim-blue?style=flat-square&logo=gmail)](mailto:ahmad2005717@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
+
+---
+
 ## Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,16 +47,12 @@
   </a>
 </p>
 
----
-
 ## Web Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,django,sqlite" />
   </a>
 </p>
-
----
 
 ## Software & Tools
 <p align="center">
@@ -64,25 +66,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/stats-output/stats.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/languages-output/languages.svg" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AhmedIbrahimFCAL&theme=dracula" height="150" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/activity-graph-output/activity-graph.svg" width="100%" />
 </p>
-
----
-
-## 📫 How to reach me:
-  [![Email](https://img.shields.io/badge/Email-Ahmad%20Ibrahim-blue?style=flat-square&logo=gmail)](mailto:ahmad2005717@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
-
----
-
-
-
-
 ---
 
 <p align="center">
@@ -90,15 +80,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedIbrahimFCAL&theme=flat" alt="trophy" />
-  </a>
-</p>
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph-dark.svg">
