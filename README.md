@@ -45,7 +45,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java,rust,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,py" />
   </a>
 </p>
 
@@ -77,9 +77,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedIbrahimFCAL&show_icons=true&theme=radical" height="150" />
+  &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedIbrahimFCAL&layout=compact&theme=radical" height="150" />
 </p>
-
 ---
 
 <p align="center">
