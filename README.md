@@ -66,16 +66,25 @@
 ---
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> GitHub Stats
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedIbrahimFCAL&theme=github-dark&hide_border=true" />
+</p>
+
+[![AhmedIbrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedIbrahimFCAL&theme=github-compact)](https://github.com/AhmedIbrahimFCAL/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedIbrahimFCAL&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedIbrahimFCAL&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 </p>
-
 ---
 
 <picture>
