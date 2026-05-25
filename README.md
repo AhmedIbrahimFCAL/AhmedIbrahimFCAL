@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/profile img.png" width="100%"/>
+</div>
+
+---
+
 <a href="https://github.com/denvercoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=500&color=FFFF00&center=true&vCenter=true&width=1100&height=73&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Ibrahim;%F0%9F%8E%93+Student+%40+Faculty+of+Computing+%26+AI+Cairo+University+%F0%9F%8E%93;%E2%9C%A8+hoping+to+be+AI+Software+%26+Systems+Engineer+%E2%9C%A8" alt="Typing SVG" />
 </a>
