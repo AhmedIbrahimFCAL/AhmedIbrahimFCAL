@@ -13,9 +13,15 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
+          
+          # Fix for Languages
           plugin_languages: yes
-          plugin_languages_type: commits
+          plugin_languages_indepth: yes # Replaces plugin_languages_type
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          
+          # Fix for Activity
           plugin_activity: yes
-          plugin_activity_type: push, pull_request, issue
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
