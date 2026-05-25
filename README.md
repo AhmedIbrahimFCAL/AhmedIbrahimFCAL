@@ -38,7 +38,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30"> How to reach me:
   [![Email](https://img.shields.io/badge/Email-Ahmad%20Ibrahim-blue?style=flat-square&logo=gmail)](mailto:ahmad2005717@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ibrahim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmad-ibrahim-ahmad-337a2431a/)
 
 ---
 
