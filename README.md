@@ -86,11 +86,13 @@
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedIbrahimFCAL&layout=compact&theme=radical" height="150" />
 </p>
+
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 </p>
+
 ---
 
 <picture>
