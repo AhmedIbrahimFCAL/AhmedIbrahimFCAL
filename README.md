@@ -64,15 +64,10 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedIbrahimFCAL&theme=github-dark&hide_border=true" />
+</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/stats-output/stats.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/languages-output/languages.svg" height="150" />
-  <img src="https://streak-stats.demolab.com?user=AhmedIbrahimFCAL&theme=dracula" height="150" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/activity-graph-output/activity-graph.svg" width="100%" />
-</p>
 ---
 
 <p align="center">
